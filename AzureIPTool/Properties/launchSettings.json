@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "AzureIPTool Usage": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    },
+    "AzureIPTool OpenVPNRoutes": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Data\\ServiceTags_Public_20210215.json\" openvpnroutes Sql.WestUS2 Sql.CentralUS"
+    },
+    "AzureIPTool ServiceTagIds": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Data\\ServiceTags_Public_20210215.json\" servicetagids"
+    },
+    "AzureIPTool ServiceTagsForIPs": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Data\\ServiceTags_Public_20210215.json\" servicetagsforips 13.66.226.202 13.66.228.204"
+    }
+  }
+}

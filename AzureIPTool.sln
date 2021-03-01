@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureIPTool", "AzureIPTool\AzureIPTool.csproj", "{C9C543CE-2B65-462A-B4A4-B3902214340A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureIPRanges", "AzureIPRanges\AzureIPRanges.csproj", "{72BF764F-06FA-419F-8F39-687ADECA8E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C543CE-2B65-462A-B4A4-B3902214340A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C543CE-2B65-462A-B4A4-B3902214340A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C543CE-2B65-462A-B4A4-B3902214340A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C543CE-2B65-462A-B4A4-B3902214340A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BF764F-06FA-419F-8F39-687ADECA8E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BF764F-06FA-419F-8F39-687ADECA8E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BF764F-06FA-419F-8F39-687ADECA8E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BF764F-06FA-419F-8F39-687ADECA8E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5E1FFBD-D66C-4FAF-B95A-079442606B56}
+	EndGlobalSection
+EndGlobal
